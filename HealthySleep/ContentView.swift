@@ -90,3 +90,6 @@ struct ContentView_Previews: PreviewProvider {
     ContentView()
   }
 }
+
+// Trying out the commit
+var a = ""
