@@ -90,6 +90,3 @@ struct ContentView_Previews: PreviewProvider {
     ContentView()
   }
 }
-
-var a = ""
-var b = 1
